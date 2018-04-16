@@ -1,6 +1,6 @@
-# vue_project
+# vue_music_player
 
-> A Vue.js project
+> A Vue Music Player
 
 ## Build Setup
 
